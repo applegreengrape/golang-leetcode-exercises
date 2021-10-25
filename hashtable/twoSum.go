@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/two-sum/
+
 package hashtable
 
 func TwoSum1(nums []int, target int) []int {
